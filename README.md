@@ -1,6 +1,6 @@
 # D1SerialIO
 
-General use serial controled IO based on the D1 mini (esp8266 chip) 
+General use serial controlled IO based on the D1 mini (esp8266 chip) 
 
 Can be configured via Serial or json file upload. 
 
